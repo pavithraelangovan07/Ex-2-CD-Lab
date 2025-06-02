@@ -1,3 +1,7 @@
+# Name: Pavithra E
+# Reg no :212224220072
+# Date: 29.02.2025
+
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
